@@ -82,5 +82,5 @@ const replaceText = (node, dic) => {
 
 const replace = (dic) => {
   replaceText(document.body, dic);
-  alert("おしゃれワードとさよならしました");
+  alert("おしゃれワードとさよならしました!!");
 }
